@@ -78,9 +78,9 @@
 
 #### Human languages:
 
-- Spanish: Native
-- English: Intermediate level
-- Practicing: Portuguese
+- **Spanish**: Native
+- **English**: Intermediate level
+- **Practicing**: Portuguese
 
 #### A bit of me:
 
