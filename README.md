@@ -2,57 +2,73 @@
 
 #### 💻 Skills and Knowledge
 
-| Programming Language | Frameworks          |
-| -------------------- | ------------------- |
-| Java \| Java EE      |                     |
-| Python               | Django, Flask       |
-| JavaScript           | Node.js, Express.js |
-| Shell Scripting      |                     |
+- **Java**
+  
+  - Java EE
+  - JPA - ORM Hibernate
+  - EJB
+  - RestFul API JAX-RS
+  
+- **Python**
+  
+  - Flask
+  - Django
+  - RestFul API
+  
+- **JavaScript**
 
-| Frontend Web Development | Frameworks |
-| ------------------------ | ---------- |
-| HTML 5                   |            |
-| CSS 3                    |            |
+  - Node.js
+  - Express.Js
+  - Sequelize
+  - NPM 
+  - JSON
 
-| DataBase Management System | GUI Client      |
-| -------------------------- | --------------- |
-| PostgreSQL                 | PgAdmin 4       |
-| MySQL                      | MySQL WorkBench |
-| MariaDB                    | DBeaver         |
-| SQLite                     | DB Browser      |
-| Oracle                     | Oracle Client   |
+- **Database**
 
-| Others technology                              |
-| ---------------------------------------------- |
-| ORM Sequelize                                  |
-| ORM Hibernate                                  |
-| API RESTful JAX-RS in JAVA                     |
-| API RESTful in Node.js, Express.js & Sequelize |
-| Wordpress                                      |
-| Heroku                                         |
-| Markdown                                       |
+  - MySQL 
+  - PostgreSQL
+  - MariaDB
+  - Oracle
+  - SQLite
 
-| Development tools      |
-| :--------------------- |
-| Git                    |
-| Visual Studio Code     |
-| Sublime Text 3         |
-| NeoVim                 |
-| PyCharm                |
-| IntelliJ IDEA          |
-| WebStorm               |
-| Xampp , Lamp & WildFly |
-| Typora                 |
-| Adobe XD               |
-| Postman                |
-| Apache                 |
-| Nginx                  |
-| Maven                  |
+- **HTML-CSS**
 
-| Operating System                 |
-| -------------------------------- |
-| GNU\Linux - Ubuntu Debian        |
-| Windows                          |
+- **Scripting**
+
+- **WordPress**
+
+- **Servidores**
+
+  - SysAdmin
+  - GNU/Linux
+  - nginx
+  - Apache
+  - Heroku
+  - VPS
+
+- **C**
+
+  
+
+#### [🛠️](https://emojipedia.org/hammer-and-wrench/) **Dev Tools** 
+
+- **PgAdmin4**
+- **MySQL WorkBench**
+- **DBeaver**
+- **DB Browser**
+- **Oracle Client**
+- **Git** 
+- **Visual Studio Code**
+- **Sublime Text 3**
+- **NeoVim**
+- **PyCharm**
+- **IntelliJ IDEA**
+- **Servers: Xampp, Lamp & WildFly** 
+- **Maven**
+- **XML**
+- **Markdown** 
+- **Postman**
+- **MS Project**
 
 
 #### Agile software development : 
