@@ -72,10 +72,10 @@
 #### Agile software development : 
 
   - Jira
-- Concluence
-  - Scrum
-  - Kanban 
-  - MS Project
+  - Concluence
+- Scrum 
+- Kanban 
+- MS Project
 
 #### Human languages:
 
