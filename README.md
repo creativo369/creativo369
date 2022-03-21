@@ -5,9 +5,11 @@
 - **Java**
   
   - Java EE
-  - JPA - ORM Hibernate
+  - JPA 
+  - ORM Hibernate
   - EJB
   - RestFul API JAX-RS
+  - Maven & Gradle
   
 - **Python**
   
@@ -19,9 +21,7 @@
 
   - Node.js
   - Express.Js
-  - Sequelize
-  - NPM 
-  - JSON
+  - Sequelize 
 
 - **Database**
 
@@ -31,22 +31,24 @@
   - Oracle
   - SQLite
 
-- **HTML-CSS**
+- **HTML\CSS\XMK**
 
 - **Scripting**
+
+  - Bash
 
 - **WordPress**
 
 - **Servidores**
 
-  - SysAdmin
   - GNU/Linux
   - nginx
   - Apache
   - Heroku
-  - VPS
 
 - **C**
+
+- **Markdown**
 
   
 
@@ -55,26 +57,23 @@
 - **PgAdmin4**
 - **MySQL WorkBench**
 - **DBeaver**
-- **DB Browser**
-- **Oracle Client**
 - **Git** 
 - **Visual Studio Code**
-- **Sublime Text 3**
-- **NeoVim**
 - **PyCharm**
 - **IntelliJ IDEA**
 - **Servers: Xampp, Lamp & WildFly** 
-- **Maven**
-- **XML**
-- **Markdown** 
 - **Postman**
-- **MS Project**
+- **SQL Power Architect**
+- **Pentaho Data Integration** 
 
 
 #### Agile software development : 
 
+  - Jira
+- Concluence
   - Scrum
   - Kanban 
+  - MS Project
 
 #### Human languages:
 
