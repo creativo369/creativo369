@@ -15,7 +15,6 @@
   
   - Flask
   - Django
-  - RestFul API
   
 - **JavaScript**
 
@@ -39,12 +38,15 @@
 
 - **WordPress**
 
+- **Odoo**
+
+- **Joomla!**
+
 - **Servidores**
 
   - GNU/Linux
-  - nginx
-  - Apache
   - Heroku
+  - Apache & nginx 
 
 - **C**
 
