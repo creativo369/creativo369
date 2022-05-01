@@ -4,7 +4,7 @@
 
 ### 																	    <div align="center"><u>Skills and Knowledge</u></div>
 
- <div align="center"><img src="https://github.com/creativo369/creativo369/blob/master/img/devops.png" style="zoom: 25%;" /></div>
+ <div align="center"><img src="https://github.com/creativo369/creativo369/blob/master/img/devops.png"/></div>
 
 
 
