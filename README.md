@@ -4,15 +4,15 @@
 
 ### 																	    <div align="center"><u>Skills and Knowledge</u></div>
 
-<img src="https://github.com/creativo369/creativo369/blob/master/img/devops.png" style="zoom: 25%;" />
+ <div align="center"><img src="https://github.com/creativo369/creativo369/blob/master/img/devops.png" style="zoom: 25%;" /></div>
 
 
 
-![](https://github.com/creativo369/creativo369/blob/master/img/stages.jpg)
+ <div align="center">![](https://github.com/creativo369/creativo369/blob/master/img/stages.jpg)</div>
 
 ### [🛠️](https://emojipedia.org/hammer-and-wrench/) tools - technology - others
 
-![](https://github.com/creativo369/creativo369/blob/master/img/tools-tecnology-others.png)
+ <div align="center">![](https://github.com/creativo369/creativo369/blob/master/img/tools-tecnology-others.png)</div>
 
 #### Human languages:
 
