@@ -2,7 +2,7 @@
 
 ### 																	
 
-### 																	    <center><u>Skills and Knowledge</u></center> 
+### 																	    <div align="center"><u>Skills and Knowledge</u></div>
 
 <img src="https://github.com/creativo369/creativo369/blob/master/img/devops.png" style="zoom: 25%;" />
 
