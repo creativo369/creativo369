@@ -1,8 +1,8 @@
 # 			Hello World! I'm Victor Gonzalez 
 
-#### 																	
+### 																	
 
-#### 																	    <u>Skills and Knowledge</u> 
+### 																	    <u>Skills and Knowledge</u> 
 
 <img src="https://github.com/creativo369/creativo369/blob/master/img/devops.png" style="zoom: 25%;" />
 
