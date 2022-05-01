@@ -4,15 +4,15 @@
 
 #### 																	    <u>Skills and Knowledge</u> 
 
-<img src="C:\Users\geekpy\Escritorio\me!\curriculum vitae\github\img\devops.png" style="zoom: 25%;" />
+<img src="https://github.com/creativo369/creativo369/blob/master/img/devops.png" style="zoom: 25%;" />
 
 
 
-![](C:\Users\geekpy\Escritorio\me!\curriculum vitae\github\img\stages.jpg)
+![](https://github.com/creativo369/creativo369/blob/master/img/stages.jpg)
 
 #### [🛠️](https://emojipedia.org/hammer-and-wrench/) tools - technology - others
 
-![](C:\Users\geekpy\Escritorio\me!\curriculum vitae\github\img\tools-tecnology-others.png)
+![](https://github.com/creativo369/creativo369/blob/master/img/tools-tecnology-others.png)
 
 #### Human languages:
 
