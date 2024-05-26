@@ -1,18 +1,14 @@
-# 			Hello World! I'm Victor Gonzalez 
+# 👋 Hello World! I'm Victor Gonzalez
 
-#### 																	
+  A student of Computer Engineering at the Polytechnic Faculty of the National University of Asuncion.
 
-#### 																	    <u>Skills and Knowledge</u> 
+🎓 During this university stage I've been able to develop my skills in the areas of Development and Project Management.
 
-<img src="C:\Users\geekpy\Escritorio\me!\curriculum vitae\github\img\devops.png" style="zoom: 25%;" />
+I have 3 years of experience and I specialize in the field of software development where I make use of my skills and abilities in the analysis, design, creation, testing and maintenance of software.
 
+It covers a wide range of activities and technical skills from backend to frontend where my main goal and vision is to build complete solutions as required. It is a field that I am very passionate about as it challenges, strengthens, develops and exploits my skills by testing my soft skills in both technical and non-technical problem solving and helps me to constantly learn something new.
 
-
-![](C:\Users\geekpy\Escritorio\me!\curriculum vitae\github\img\stages.jpg)
-
-#### [🛠️](https://emojipedia.org/hammer-and-wrench/) tools - technology - others
-
-![](C:\Users\geekpy\Escritorio\me!\curriculum vitae\github\img\tools-tecnology-others.png)
+<img title="" src="file:///C:/Users/sysadmin/Documents/creativo369/img/devops.png" alt="" style="zoom:100%;" data-align="center">
 
 #### Human languages:
 
@@ -28,6 +24,10 @@
 - I like to build cool and innovation projects that make an impact. 
 - I'm a fan of mixing virtual solutions for real life things.
 
-####  Get in touch:
+#### Get in touch:
 
-\_> Twitter: https://twitter.com/vrgg01
+
+
+If you want to know more about me, you can connect with me via LinkedIn, send me an email or we can even have a coffee.
+
+Email: geekpy@hotmail.com X: https://twitter.com/vrgg01
