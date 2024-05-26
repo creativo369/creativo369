@@ -8,7 +8,9 @@ I have 3 years of experience and I specialize in the field of software developme
 
 It covers a wide range of activities and technical skills from backend to frontend where my main goal and vision is to build complete solutions as required. It is a field that I am very passionate about as it challenges, strengthens, develops and exploits my skills by testing my soft skills in both technical and non-technical problem solving and helps me to constantly learn something new.
 
-<img title="" src="file:///C:/Users/sysadmin/Documents/creativo369/img/devops.png" alt="" style="zoom:100%;" data-align="center">
+<img src="./img/devops.png" title="" alt="image info" data-align="center">
+
+
 
 #### Human languages:
 
